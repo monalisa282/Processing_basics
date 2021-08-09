@@ -5,7 +5,7 @@
 void setup(){
   
   size (1640 , 960);
-  background(150);
+  background(150); // will leave a trail as it is not drawing continously and the rectangles will leave the trail of being drawn continously
 }
 
 void draw(){
